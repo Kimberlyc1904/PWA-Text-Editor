@@ -39,5 +39,17 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
+## GitHub/Heroku
+```
+https://github.com/Kimberlyc1904/PWA-Text-Editor
+```
+
+## Sources
+```
+ChatGPT
+W3 Schools
+Google
+Stack Overflow
+```
 
 
